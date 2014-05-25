@@ -1,5 +1,5 @@
 title=IPTV By_Anoiron ================================================================================================================================
-version=-1
+version=-8
 background=http://wallvan.com/wp-content/uploads/2013/12/Hannibal-Lecter-TV-Series-Wallpaper.png
 view=list
 #
