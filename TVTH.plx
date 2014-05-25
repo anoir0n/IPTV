@@ -1,5 +1,5 @@
 version=-1
-background=http://4.bp.blogspot.com/_enVLP57PrXw/TB8gwrJYZ5I/AAAAAAAAB-A/G9vNy2FUOCs/s1600/free-wallpaper-20.jpg
+background=http://wallvan.com/wp-content/uploads/2013/12/Hannibal-Lecter-TV-Series-Wallpaper.png
 title=TVTH  By_Anoiron
 view=list
 #
