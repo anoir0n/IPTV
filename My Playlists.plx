@@ -1,7 +1,9 @@
-version=-1
+version=8
 background=http://2.3qdc.com/sakid/2008/03/06/wall/sakid_wallpaper_2.out.JPG
+title=
 view=thumbnails
 #
+type=vide
 type=video
 name=Workpoint TV
 thumb=http://www.v24tv.com/wp-content/uploads/2013/11/theemptyzone1.png
