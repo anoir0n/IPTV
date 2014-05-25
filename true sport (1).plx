@@ -1,8 +1,7 @@
-#
-version=1
-background=http://1.bp.blogspot.com/-Hfy8FQyFhYE/TpLDD5efp0I/AAAAAAAAAZI/Vp6glf1Wpc8/s1600/thanksgiving-wallpaper-5.jpg
-title=iRoNBiLL's Playlist
-logo=http://www.fileden.com/files/2010/8/4/2932808/newlogo3.png
+version=8
+background=http://www.voucherthai.com/uploads/5533/01.jpg
+title=
+view=thumbnails
 #
 type=video
 name=true sport 1
