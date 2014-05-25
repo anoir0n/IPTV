@@ -2,7 +2,7 @@ version=1
 background=http://wallpaper.yenta4.com/pic/real/11/285/cb726d3b7c47073ed41655bd6caf969f.jpg
 view=thumbnails
 #
-type=vide
+type=video
 name=Workpoint TV
 thumb=http://www.v24tv.com/wp-content/uploads/2013/11/theemptyzone1.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/a9a68ab5471d4d39ba25695a66957067.m3u8?pt=1&code=f74200e8961a4824507110db973e03c6
