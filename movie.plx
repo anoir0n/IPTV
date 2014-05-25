@@ -1,5 +1,4 @@
 #
-type=vide
 type=video
 name=Pompeii ไฟนรกถล่มปอมเปอี
 thumb=http://www.xn--72czpba5eubsa1bzfzgoe.ws/wp-content/uploads/2014/05/Pompeii-200x300.jpg
