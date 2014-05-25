@@ -41,6 +41,6 @@ URL=http://toniptv.no-ip.biz:1935/live/tsphd1.stream/playlist.m3u8
 #
 type=video
 name=true sport HD 2
-thumb=http://cdn2.blovcdn.com/bloglovin/44dc788a873de9392a65515b596a997a14c6a9e3/g/aHR0cCUzQSUyRiUyRjQuYnAuYmxvZ3Nwb3QuY29tJTJGLW5tZlE0U1ZsVEhFJTJGVWQ4N3RmYzlDX0klMkZBQUFBQUFBQUFSUSUyRnJBV0wxaGdmeVFvJTJGczE2MDAlMkZUcnVlVmlzaW9ucy0xMjMtVHJ1ZV9TcG9ydEhEMi5qcGc=
+thumb=http://www.xn--l3cmmmfecl5e3db4bzg6h.com/images/Truesport2.jpg
 URL=http://toniptv.no-ip.biz:1935/live/tsphd2.stream/playlist.m3u8
 #
