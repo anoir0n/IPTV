@@ -1,7 +1,6 @@
 title=IPTV By_Anoiron ================================================================================================================================
 version=8
 background=http://www.one2hd.com/images/background/index/1.jpg?
-title=
 view=thumbnails
 #
 type=video
