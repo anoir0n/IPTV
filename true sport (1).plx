@@ -46,7 +46,7 @@ URL=http://k6tv2.dyndns.tv:1935/live/_definst_/flu.stream/playlist.m3u8
 #
 type=video
 name=true sport HD 2
-thumb=http://cdn2.blovcdn.com/bloglovin/44dc788a873de9392a65515b596a997a14c6a9e3/g/aHR0cCUzQSUyRiUyRjQuYnAuYmxvZ3Nwb3QuY29tJTJGLW5tZlE0U1ZsVEhFJTJGVWQ4N3RmYzlDX0klMkZBQUFBQUFBQUFSUSUyRnJBV0wxaGdmeVFvJTJGczE2MDAlMkZUcnVlVmlzaW9ucy0xMjMtVHJ1ZV9TcG9ydEhEMi5qcGc=
+thumb=http://www.xn--l3cmmmfecl5e3db4bzg6h.com/images/Truesport2.jpg
 URL=http://k6tv2.dyndns.tv:1935/live/_definst_/fluke.stream/playlist.m3u8
 #
 type=video
