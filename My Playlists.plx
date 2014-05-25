@@ -1,6 +1,5 @@
 version=1
 background=http://wallpaper.yenta4.com/pic/real/11/285/cb726d3b7c47073ed41655bd6caf969f.jpg
-title=
 view=thumbnails
 #
 type=vide
