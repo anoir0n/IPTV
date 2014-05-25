@@ -1,3 +1,7 @@
+version=8
+background=http://www.voucherthai.com/uploads/5533/01.jpg
+title=
+view=thumbnails
 #
 type=video
 name=true sport 1
