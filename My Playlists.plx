@@ -1,5 +1,5 @@
 version=8
-background=http://2.3qdc.com/sakid/2008/03/06/wall/sakid_wallpaper_2.out.JPG
+background=http://www.voucherthai.com/uploads/5533/01.jpg
 title=
 view=thumbnails
 #
