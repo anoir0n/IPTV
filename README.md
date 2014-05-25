@@ -1,4 +1,0 @@
-IPTV
-====
-
-TPTV{BOM}
