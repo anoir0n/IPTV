@@ -1,6 +1,6 @@
 version=-1
-title=
-view=list
+background=http://2.3qdc.com/sakid/2008/03/06/wall/sakid_wallpaper_2.out.JPG
+view=thumbnails
 #
 type=video
 name=Workpoint TV
