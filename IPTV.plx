@@ -1,7 +1,7 @@
 title=IPTV By_Anoiron ================================================================================================================================
+version=8
 background=http://4.bp.blogspot.com/_enVLP57PrXw/TB8gwrJYZ5I/AAAAAAAAB-A/G9vNy2FUOCs/s1600/free-wallpaper-20.jpg
 view=thumbnails
-version=8
 #
 type=playlist
 name=My Playlists 
