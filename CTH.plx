@@ -27,8 +27,3 @@ name=cth stadium 5
 thumb=http://www.cth.co.th/wp-content/uploads/2013/07/Stadium5.jpg
 URL=http://toniptv.no-ip.biz:1935/live/cth15.stream/playlist.m3u8
 #
-type=video
-name=
-thumb=
-URL=
-#
