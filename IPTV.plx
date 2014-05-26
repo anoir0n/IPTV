@@ -6,7 +6,7 @@ view=thumbnails
 type=playlist
 name=My Playlists 
 thumb=http://www.o2kiptv.com/otv/Contents/iptv.jpg
-URL=http://iptvpi.url.ph/My%20Playlists%2026.05.57.plx
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/My%20Playlists.plx
 #
 type=playlist
 name=TVYH
