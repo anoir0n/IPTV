@@ -38,10 +38,10 @@ name=true sport (link 4)
 thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(4).plx
 #
-type=playlist
-name=true sport (link 5)
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(5).plx
+#type=playlist
+#name=true sport (link 5)
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(5).plx
 #
 type=playlist
 name=ONE2HD
