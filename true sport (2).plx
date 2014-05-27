@@ -47,6 +47,7 @@ type=video
 name=true sport HD 2
 thumb=http://www.ballzeez.com/image/dooball/dooball2014-02-28-0ff8f93447c1d9d86051ee470993a2c2.png
 URL=rtmp://112.121.150.127:37861/retenma547ssaec2/_definst_/tsphd2.stream
+#
 type=video
 name=Explorer 1
 thumb=http://www.ballzeez.com/image/dooball/dooball2014-05-09-ca4af0c4ecd39f311cfd0e88defaedb9.jpeg
