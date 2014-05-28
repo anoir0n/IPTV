@@ -1,3 +1,8 @@
+title=IPTV By_Anoiron ================================================================================================================================
+version=1
+background=http://wallpaperus.org/wallpapers/07/73/purple-11658x6112-wallpaper-2129144.jpg
+view=thumbnails
+#
 type=video
 name=CH 3 HD
 thumb=
