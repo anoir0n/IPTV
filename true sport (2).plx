@@ -31,7 +31,7 @@ URL=rtmp://112.121.150.127:37861/retenma547ssaec2/_definst_/tsp5.stream
 type=video
 name=true sport 6
 thumb=http://www.ballzeez.com/image/dooball/dooball2014-03-03-8f598de2f493080412449cd62400df5b.png
-URL=rtmp://112.121.150.127:37861/retenma547ssaec2/_definst_/tsp6.stream
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt6.stream
 #
 type=video
 name=true sport 7
