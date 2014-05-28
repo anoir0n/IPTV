@@ -1,6 +1,7 @@
 title=IPTV By_Anoiron ================================================================================================================================
 version=8
 background=http://www.digitallife.gr/wp-content/uploads/2014/05/movie-theatre1.jpg
+view=thumbnails
 #
 type=video
 name=Pompeii ไฟนรกถล่มปอมเปอี
