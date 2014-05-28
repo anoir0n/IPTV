@@ -14,6 +14,11 @@ thumb=http://appviewer.in.th/img/applogo/tvth.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TVTH.plx
 #
 type=playlist
+name=Digital TV
+thumb=http://images.droidsans.com/sites/default/files/doodee-sticker.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Digital%20TV.plx
+#
+type=playlist
 name=freeTV
 thumb=http://4.bp.blogspot.com/-nIOQ7X6N3IA/Uwbqth8M9SI/AAAAAAAABik/I0Vduoid6kg/s1600/Popular+TV+Logos+01+(6).png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/freeTV.plx
