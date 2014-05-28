@@ -63,3 +63,8 @@ name=MOVIE
 thumb=http://www.iconhot.com/icon/png/flurry-system/256/movies-9.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/movie.plx
 #
+type=playlist
+name=movie channel
+thumb=http://img1.wikia.nocookie.net/__cb20130804215834/angrybirdsfanon/images/b/b2/Movie.jpg
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/MOVIE%20CH.plx
+#
