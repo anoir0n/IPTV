@@ -4,6 +4,11 @@ background=http://4.bp.blogspot.com/_enVLP57PrXw/TB8gwrJYZ5I/AAAAAAAAB-A/G9vNy2F
 view=thumbnails
 #
 type=playlist
+name=TOTIPTV
+thumb=http://www.totiptv.com/images/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV.plx
+#
+type=playlist
 name=My Playlists 
 thumb=http://www.o2kiptv.com/otv/Contents/iptv.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/My%20Playlists.plx
