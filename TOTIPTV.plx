@@ -114,14 +114,9 @@ thumb=http://www.totiptv.com/Product/Channel/images/TRUE-4-U.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
 #
 type=video
-name=
-thumb=
-URL=http://plk02.livem3u8.me.totiptv.com/live/732ace1b4983472097eedb0d415dc231.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
-#
-type=video
 name=NOW
 thumb=http://www.totiptv.com/Product/Channel/images/now.png
-URL=http://plk02.livem3u8.me.totiptv.com/live/.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
+URL=http://plk02.livem3u8.me.totiptv.com/live/732ace1b4983472097eedb0d415dc231.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
 #
 type=video
 name=CH 8
@@ -289,11 +284,6 @@ thumb=http://www.totiptv.com/Product/Channel/images/you.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/8E959F5D739D497C95FAA31B3A810DD6.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
 #
 type=video
-name=
-thumb=
-URL=http://plk02.livem3u8.me.totiptv.com/live/9d8a1926b1dc4a0ba20d7bdda5a56689.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
-#
-type=video
 name=Sun Channel
 thumb=http://www.totiptv.com/Product/Channel/images/SunChannel.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/9d8a1926b1dc4a0ba20d7bdda5a56689.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
@@ -304,7 +294,7 @@ thumb=http://www.totiptv.com/Product/Channel/images/pop.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/5389167315DC4A619ED5BC72F66A1C4F.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
 #
 type=video
-name=ช่อง 2
+name=CH2
 thumb=http://www.totiptv.com/Product/Channel/images/CH2.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/4E38ED2FA4DD43999828EAB81196DEFF.m3u8?pt=1&code=f7afac03506794b4c210aefd5a515f81
 #
