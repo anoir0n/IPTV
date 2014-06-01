@@ -504,27 +504,27 @@ thumb=http://www.totiptv.com/Product/Channel/images/FX-HD.png
 URL=http://plk02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
 #
 type=video
-name=
-thumb=
-URL=http://plk02.livem3u8.me.totiptv.com/live/.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
+name=Universal Channel
+thumb=http://www.totiptv.com/Product/Channel/images/Universal.png
+URL=http://plk02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
 #
 type=video
-name=
-thumb=
-URL=http://plk02.livem3u8.me.totiptv.com/live/.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
+name=Syfy
+thumb=http://www.totiptv.com/Product/Channel/images/Syfy.png
+URL=http://plk02.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
 #
 type=video
-name=
-thumb=
-URL=http://plk02.livem3u8.me.totiptv.com/live/.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
+name=Fox Crime HD 
+thumb=http://www.totiptv.com/Product/Channel/images/foxcrime.png
+URL=http://plk02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
 #
 type=video
-name=
-thumb=
-URL=http://plk02.livem3u8.me.totiptv.com/live/.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
+name=Warner TV HD 
+thumb=http://www.totiptv.com/Product/Channel/images/WBTV.png
+URL=http://plk02.livem3u8.me.totiptv.com/live/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
 #
 type=video
-name=
+name=Kix
 thumb=
 URL=http://plk02.livem3u8.me.totiptv.com/live/.m3u8?pt=1&code=35d3c83e349c102d3a05bc6327418f23
 #
