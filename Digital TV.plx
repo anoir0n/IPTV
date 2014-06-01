@@ -93,3 +93,8 @@ name=Amarin TV HD
 thumb=http://tv.ohozaa.com/tvlogo/live-logo/amarintv.jpg
 URL=http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
 #
+type=video
+name=true4u
+thumb=http://tv.ohozaa.com/tvlogo/live-logo/true4u.jpg
+URL=http://edge1.psitv.tv:1935/liveedge/308235425316_600/playlist.m3u8
+#
