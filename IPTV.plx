@@ -59,6 +59,11 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(3).plx
 #URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(5).plx
 #
 type=playlist
+name=true sport (link 6)
+thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(6).plx
+#
+type=playlist
 name=ONE2HD
 thumb=http://www.one2hd.com/apple-touch-icon.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/ONEHD.plx
