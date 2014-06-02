@@ -45,6 +45,6 @@ URL=http://toniptv.no-ip.biz:1935/live/tsphd1.stream/playlist.m3u8
 #
 type=video
 name=true sport HD 2
-thumb=http://www.xn--l3cmmmfecl5e3db4bzg6h.com/images/Truesport2.jpg
+thumb=http://www.ballzeez.com/image/dooball/dooball2014-02-28-0ff8f93447c1d9d86051ee470993a2c2.png
 URL=http://toniptv.no-ip.biz:1935/live/tsphd2.stream/playlist.m3u8
 #
