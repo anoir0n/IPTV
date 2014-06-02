@@ -1,6 +1,6 @@
 title=IPTV By_Anoiron ================================================================================================================================
 version=8
-background=
+background=http://wallpaper.thaiware.com/wallpapers/2009_07/16193_6797_090729104552_R7.jpg
 view=thumbnails
 #
 type=video
