@@ -33,25 +33,25 @@ name=CTH
 thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH.plx
 #
-type=playlist
-name=true sport (link 1)
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(1).plx
+#type=playlist
+#name=true sport (link 1)
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(1).plx
 #
-type=playlist
-name=true sport (link 2)
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(2).plx
+#type=playlist
+#name=true sport (link 2)
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(2).plx
 #
 type=playlist
 name=true sport (link 3)
 thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(3).plx
 #
-type=playlist
-name=true sport (link 4)
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(4).plx
+#type=playlist
+#name=true sport (link 4)
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(4).plx
 #
 #type=playlist
 #name=true sport (link 5)
