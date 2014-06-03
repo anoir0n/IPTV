@@ -29,9 +29,14 @@ thumb=http://4.bp.blogspot.com/-nIOQ7X6N3IA/Uwbqth8M9SI/AAAAAAAABik/I0Vduoid6kg/
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/freeTV.plx
 #
 type=playlist
-name=CTH
+name=CTH (1)
 thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH.plx
+#
+type=playlist
+name=CTH (2)
+thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH%20(2).plx
 #
 #type=playlist
 #name=true sport (link 1)
