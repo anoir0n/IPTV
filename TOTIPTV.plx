@@ -270,8 +270,8 @@ URL=http://plk02.livem3u8.me.totiptv.com/live/6419c83b42934de3a333c5a32737b559.m
 #
 type=video
 name=Fan TV HD
-thumb=http://www.totiptv.com/Product/Channel/images/GMMMusic.png
-URL=http://plk02.livem3u8.me.totiptv.com/live/6419c83b42934de3a333c5a32737b559.m3u8?pt=1&code=525323313373c0005e999280159d6a5f
+thumb=http://www.totiptv.com/Product/Channel/images/FanTV.png
+URL=http://plk02.livem3u8.me.totiptv.com/live/345a4277dd864037b6b4fb5a562af59c.m3u8?pt=1&code=525323313373c0005e999280159d6a5f
 #
 type=video
 name=BEARTAI HD
