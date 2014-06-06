@@ -9,6 +9,11 @@ thumb=http://www.totiptv.com/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV.plx
 #
 type=playlist
+name=Digital TV TOT
+thumb=http://images.droidsans.com/sites/default/files/doodee-sticker.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Digital%20TV%7B%7BTOT%7D%7D.plx
+#
+type=playlist
 name=My Playlists 
 thumb=http://www.o2kiptv.com/otv/Contents/iptv.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/My%20Playlists.plx
@@ -22,7 +27,6 @@ type=playlist
 name=True Visions
 thumb=http://www.thaidigitaltelevision.com/wp-content/uploads/2014/04/truevision.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TrueVisions.plx
-#
 #
 type=playlist
 name=Digital TV
