@@ -19,6 +19,12 @@ thumb=http://appviewer.in.th/img/applogo/tvth.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TVTH.plx
 #
 type=playlist
+name=True Visions
+thumb=http://www.thaidigitaltelevision.com/wp-content/uploads/2014/04/truevision.jpg
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TrueVisions.plx
+#
+#
+type=playlist
 name=Digital TV
 thumb=http://images.droidsans.com/sites/default/files/doodee-sticker.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Digital%20TV.plx
