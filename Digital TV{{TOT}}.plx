@@ -1,4 +1,8 @@
 #
+title=IPTV By_Anoiron ================================================================================================================================
+version=8
+background=http://www.hdwallsource.com/img/2014/4/free-background-wallpaper-22918-23554-hd-wallpapers.jpg
+#
 type=video
 name=TV5 HD1
 thumb=http://www.totiptv.com/Product/Channel/images/ch5.png
