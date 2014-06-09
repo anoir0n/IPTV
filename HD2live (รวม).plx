@@ -14,7 +14,7 @@ thumb=http://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/a
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Concert%20(HD2live).plx
 #
 type=playlist
-namePrison Break
+name=Prison Break
 thumb=http://sites.psu.edu/rclnataliasolar/wp-content/uploads/sites/4987/2013/10/Prison_Break_Michael_Scofield.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Prison%20Break.plx
 #
