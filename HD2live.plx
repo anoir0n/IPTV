@@ -1,4 +1,8 @@
 #
+title=IPTV By_Anoiron ================================================================================================================================
+version=8
+background=
+#
 type=video
 name=World Cup
 thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
