@@ -11,7 +11,7 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%7B%7BIPTV%7D%7
 type=playlist
 name=Concert
 thumb=http://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/3/8d/38d01f3e-a226-11e3-8f4f-0019bb2963f4/531359dfd63b3.preview-620.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Concert%20(HD2live)
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Concert%20(HD2live).plx
 #
 type=playlist
 namePrison Break
