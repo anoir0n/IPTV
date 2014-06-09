@@ -24,6 +24,11 @@ thumb=http://appviewer.in.th/img/applogo/tvth.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TVTH.plx
 #
 type=playlist
+name=HD2live
+thumb=http://hd2live.kicks-ass.net/img/themes/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%20(%E0%B8%A3%E0%B8%A7%E0%B8%A1).plx
+#
+type=playlist
 name=True Visions
 thumb=http://www.thaidigitaltelevision.com/wp-content/uploads/2014/04/truevision.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TrueVisions.plx
