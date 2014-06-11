@@ -4,6 +4,11 @@ background=http://4.bp.blogspot.com/_enVLP57PrXw/TB8gwrJYZ5I/AAAAAAAAB-A/G9vNy2F
 view=thumbnails
 #
 type=playlist
+name=World Cup 2014
+thumb=http://insoccer.ca/wp-content/uploads/2013/12/World-Cup-2014-Brasil-logo-03.jpg
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/worldcup%202014.plx
+#
+type=playlist
 name=TOTIPTV
 thumb=http://www.totiptv.com/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV.plx
