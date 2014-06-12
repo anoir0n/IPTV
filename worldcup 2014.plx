@@ -24,6 +24,11 @@ thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
 URL=http://202.129.206.80:2000/HD2live-S3/worldcupsss.stream/playlist.m3u8
 #
 type=video
+name=WorldCup Channel HD (5)
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=http://toniptv.no-ip.biz:1935/live/_definst_/vtv2.stream/playlist.m3u8
+#
+type=video
 name=CH 8
 thumb=http://www.totiptv.com/Product/Channel/images/thaich8.png
 URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=bc67e9c824bd2546460bdf34d077beaf
