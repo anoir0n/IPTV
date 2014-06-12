@@ -14,9 +14,14 @@ thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=rtsp://58.97.57.152:1935/live/_definst_/hd05.stream
 #
 type=video
-name=WorldCup Channel HD (2)
+name=WorldCup Channel HD (3)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=rtsp://58.97.57.152:1935/live/hd05.stream
+#
+type=video
+name=WorldCup Channel HD (4)
+thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
+URL=http://202.129.206.80:2000/HD2live-S3/worldcupsss.stream/playlist.m3u8
 #
 type=video
 name=CH 8
