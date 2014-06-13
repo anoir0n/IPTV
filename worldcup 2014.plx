@@ -21,7 +21,7 @@ URL=rtsp://58.97.57.152:1935/live/hd05.stream
 type=video
 name=WorldCup Channel HD (4)
 thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
-URL=http://202.129.206.80:2000/HD2live-S3/worldcupsss.stream/playlist.m3u8
+URL=http://202.129.206.80:2000/HD2live-S3/worldcup.stream/playlist.m3u8
 #
 type=video
 name=WorldCup Channel HD (5)
@@ -31,7 +31,7 @@ URL=http://toniptv.no-ip.biz:1935/live/_definst_/vtv2.stream/playlist.m3u8
 type=video
 name=CH 8
 thumb=http://www.totiptv.com/Product/Channel/images/thaich8.png
-URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=abe7bc0f848d5242d7367a2ed32373fd
+URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=04895f625336f531a83e826acfca7c5f
 #
 type=video
 name=CH 7 HD (ONE2HD)
@@ -41,10 +41,10 @@ URL=rtmp://edge6.bugaboo.tv/liveedgech7/livech71
 type=video
 name=BBTV CH 7 (TOT)
 thumb=http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png
-URL=http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=abe7bc0f848d5242d7367a2ed32373fd
+URL=http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=04895f625336f531a83e826acfca7c5f
 #
 type=video
 name=TV5 HD1
 thumb=http://www.totiptv.com/Product/Channel/images/ch5.png
-URL=http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=abe7bc0f848d5242d7367a2ed32373fd
+URL=http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=04895f625336f531a83e826acfca7c5f
 #
