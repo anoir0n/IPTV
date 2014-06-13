@@ -6,7 +6,7 @@ view=thumbnails
 type=video
 name=History HD
 thumb=http://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg
-URL=http://112.121.150.127:37861/tvjaaudhsiduew/_definst_/Hitstoryhd.stream/playlist.m3u8
+URL=rtmp://$OPT:rtmp-raw=rtmp://tvjaa.mine.nu:1935/tvjaa/history2.stream swfUrl=http://www.tvjaa.com/stream2/StrobeMediaPlayback.swf pageUrl=http://www.tvjaa.com/stream2/sarakadee2.php
 #
 type=video
 name=
