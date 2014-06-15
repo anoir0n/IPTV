@@ -29,6 +29,11 @@ thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://toniptv.no-ip.biz:1935/live/_definst_/vtv2.stream/playlist.m3u8
 #
 type=video
+name=WorldCup Channel HD (6)
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=http://112.121.150.125:1935/live/worldcuphd/playlist.m3u8
+#
+type=video
 name=CH 8
 thumb=http://www.totiptv.com/Product/Channel/images/thaich8.png
 URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=5f01d73d0b8a186a018b3d1ae7467437
