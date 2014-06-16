@@ -31,7 +31,7 @@ URL=http://toniptv.no-ip.biz:1935/live/_definst_/vtv2.stream/playlist.m3u8
 type=video
 name=WorldCup Channel HD (6)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=2e6caa427650d12c466a5de76ac2a6fc&password=0858070287
+URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=4e1d035a7f38f57bd4df8d1780c5cdf6&password=0858070287
 #
 type=video
 name=CH 8
