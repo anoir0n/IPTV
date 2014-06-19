@@ -9,9 +9,14 @@ thumb=http://insoccer.ca/wp-content/uploads/2013/12/World-Cup-2014-Brasil-logo-0
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/worldcup%202014.plx
 #
 type=playlist
-name=TOTIPTV
+name=TOTIPTV server 1
 thumb=http://www.totiptv.com/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV.plx
+#
+type=playlist
+name=TOTIPTV server 2
+thumb=http://www.totiptv.com/images/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20(No%20Code%20).plx
 #
 type=playlist
 name=Digital TV TOT
@@ -19,24 +24,24 @@ thumb=http://images.droidsans.com/sites/default/files/doodee-sticker.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Digital%20TV%7B%7BTOT%7D%7D.plx
 #
 type=playlist
-name=My Playlists 
-thumb=http://www.o2kiptv.com/otv/Contents/iptv.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/My%20Playlists.plx
-#
-type=playlist
 name=TVYH
 thumb=http://appviewer.in.th/img/applogo/tvth.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TVTH.plx
 #
-type=playlist
-name=HD2live
-thumb=http://hd2live.kicks-ass.net/img/themes/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%20(%E0%B8%A3%E0%B8%A7%E0%B8%A1).plx
+#type=playlist
+#name=My Playlists 
+#thumb=http://www.o2kiptv.com/otv/Contents/iptv.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/My%20Playlists.plx
 #
-type=playlist
-name=True Visions
-thumb=http://www.thaidigitaltelevision.com/wp-content/uploads/2014/04/truevision.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TrueVisions.plx
+#type=playlist
+#name=HD2live
+#thumb=http://hd2live.kicks-ass.net/img/themes/logo.png
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%20(%E0%B8%A3%E0%B8%A7%E0%B8%A1).plx
+#
+#type=playlist
+#name=True Visions
+#thumb=http://www.thaidigitaltelevision.com/wp-content/uploads/2014/04/truevision.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TrueVisions.plx
 #
 type=playlist
 name=Digital TV
@@ -98,8 +103,8 @@ name=MOVIE
 thumb=http://www.iconhot.com/icon/png/flurry-system/256/movies-9.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/movie.plx
 #
-type=playlist
-name=movie channel
-thumb=http://img1.wikia.nocookie.net/__cb20130804215834/angrybirdsfanon/images/b/b2/Movie.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/MOVIE%20CH.plx
+#type=playlist
+#name=movie channel
+#thumb=http://img1.wikia.nocookie.net/__cb20130804215834/angrybirdsfanon/images/b/b2/Movie.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/MOVIE%20CH.plx
 #
