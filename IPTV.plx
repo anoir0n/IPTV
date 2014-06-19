@@ -74,7 +74,7 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH%20(2).plx
 #URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(2).plx
 #
 type=playlist
-name=true sport (link 3)
+name=true sport server 1
 thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(3).plx
 #
@@ -88,8 +88,13 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(3).plx
 #thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
 #URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(5).plx
 #
+pe=playlist
+name=true sport server 2
+thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(7).plx
+#
 type=playlist
-name=true sport (link 6)
+name=true sport server 3
 thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(6).plx
 #
