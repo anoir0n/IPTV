@@ -41,7 +41,17 @@ URL=http://toniptv.no-ip.biz:1935/live/tsphd1.stream/playlist.m3u8
 type=video
 name=WorldCup Channel HD (8) (*on user/pass*)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=a440b3080557db9a51f61a8bca2215f1&password=0858070287
+URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=87cc80b115869bd352d6f8a1dbc9cc0b&password=0858070287
+#
+type=video
+name=WorldCup Channel HD (9)
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=http://cloudlive.worse-than.tv:1966/fwiptv_flive/worldcup_fw-iptv.smil/playlist.m3u8?S0QyZ0NmdS9HcUtTeWlDWHRMYkg1Y1huQnM4MUd1d2oyclR2N2liZ2c3OXByTEFJTTVmbTRSWXZsMlp5WnJyRw==
+#
+type=video
+name=WorldCup Channel HD (10)
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?QVhabHZxdXZ0bUpwN0RPTks2ZTJWNXFkb0ZscENKNW5zaE1rVlpyQVNUKzBvNDBHdXpTVTB1Y0xHZlFhQTBGVw==
 #
 type=video
 name=CH 8
