@@ -54,6 +54,11 @@ thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?eUg2bWY2eW15dFVYTlNNQjhjMERLazQxTFpYcVdpSHZQaW5ONXRNazNveS92Nk1UVTg3Yk5qazdTN3hnVlB4Zw==
 #
 type=video
+name=WorldCup Channel HD (11)
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=http://27.254.81.119:1935/live/thd1.stream/playlist.m3u8?wowzasessionid=1314890268
+#
+type=video
 name=CH 8
 thumb=http://www.totiptv.com/Product/Channel/images/thaich8.png
 URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=fa00cb40265decd353fdac0687947936
