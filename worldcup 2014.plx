@@ -51,7 +51,7 @@ URL=http://cloudlive.worse-than.tv:1966/fwiptv_flive/worldcup_fw-iptv.smil/playl
 type=video
 name=WorldCup Channel HD (10)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?QVhabHZxdXZ0bUpwN0RPTks2ZTJWNXFkb0ZscENKNW5zaE1rVlpyQVNUKzBvNDBHdXpTVTB1Y0xHZlFhQTBGVw==
+URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?eUg2bWY2eW15dFVYTlNNQjhjMERLazQxTFpYcVdpSHZQaW5ONXRNazNveS92Nk1UVTg3Yk5qazdTN3hnVlB4Zw==
 #
 type=video
 name=CH 8
