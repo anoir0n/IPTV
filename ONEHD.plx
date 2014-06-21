@@ -1,7 +1,3 @@
-title=IPTV By_Anoiron ================================================================================================================================
-version=8
-background=http://www.one2hd.com/images/background/index/1.jpg?
-view=thumbnails
 #
 type=video
 name=CH 3
@@ -44,22 +40,7 @@ thumb=http://www.one2hd.com/images/live_logo/77.png
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch53/playlist.m3u8
 #
 type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=http://lm03.everyon.tv/ptv3/phd499/playlist.m3u8
+name=Media Channel
+thumb=http://www.one2hd.com/images/live_logo/39.png
+URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch22/playlist.m3u8
 #
