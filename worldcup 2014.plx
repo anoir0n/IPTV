@@ -46,7 +46,7 @@ URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=87cc8
 type=video
 name=WorldCup Channel HD (9)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://cloudlive.worse-than.tv:1966/fwiptv_flive/worldcup_fw-iptv.smil/playlist.m3u8?S0QyZ0NmdS9HcUtTeWlDWHRMYkg1Y1huQnM4MUd1d2oyclR2N2liZ2c3OXByTEFJTTVmbTRSWXZsMlp5WnJyRw==
+URL=http://cloudlive.worse-than.tv:1966/fwiptv_flive/worldcup_fw-iptv.smil/playlist.m3u8?REplSStOTTBJYThoM3FWeVQ2R3JrZll3K2hpa3lGalVONkxYVkFXS2dJa0k0WTcvT0duQUo5bDdGUTBSckhQeA==
 #
 type=video
 name=WorldCup Channel HD (10)
