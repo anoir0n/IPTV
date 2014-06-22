@@ -4,7 +4,7 @@ version=1
 background=http://geniusquotes.net/wp-content/uploads/2014/06/Fifa-World-Cup-Brazuca-Ball-and-Trophy-2014-HD-Wallpaper.jpg
 #
 type=video
-name=WorldCup Channel HD (1)
+name=WorldCup Channel HD HD (1) 
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-hd05/playlist.m3u8
 #
@@ -19,22 +19,22 @@ thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=rtsp://58.97.57.152:1935/live/hd05.stream
 #
 #type=video
-#name=WorldCup Channel HD (4)
+#name=WorldCup Channel  (4)
 #thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
 #URL=http://202.129.206.80:2000/HD2live-S3/worldcup.stream/playlist.m3u8
 #
 #type=video
-#name=WorldCup Channel HD (5)
+#name=WorldCup Channel  (5)
 #thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 #URL=http://toniptv.no-ip.biz:1935/live/_definst_/vtv2.stream/playlist.m3u8
 #
 #type=video
-#name=WorldCup Channel HD (6)
+#name=WorldCup Channel  (6)
 #thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 #URL=http://112.121.150.125:1935/live/worldcuphd/playlist.m3u8
 #
 #type=video
-#name=WorldCup Channel HD (7) (TS)
+#name=WorldCup Channel  (7) (TS)
 #thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 #URL=http://toniptv.no-ip.biz:1935/live/tsphd1.stream/playlist.m3u8
 #
@@ -44,7 +44,7 @@ thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=3ab468e017058cfe3cf800f7f2766b62&password=0858070287
 #
 type=video
-name=WorldCup Channel HD (8/2) (*on user/pass*)
+name=WorldCup Channel SD (8/2) (*on user/pass*)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://totspl.webhop.net:26835/splrt/h5.stream/playlist.m3u8?username=3ab468e017058cfe3cf800f7f2766b62&password=0858070287
 #
@@ -64,7 +64,7 @@ thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?cTREcjFxaTJUUGRjUHcwYmJ3ekw4Wk5pUU9vaUd4YTdZYTllaE9hWGh1TXYvVU1DMk0zQTNXR3Y5VWVNMDJFaw==
 #
 type=video
-name=WorldCup Channel HD (11)
+name=WorldCup Channel SD (11) (True)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://27.254.81.119:1935/live/thd1.stream/playlist.m3u8?wowzasessionid=1314890268
 #
