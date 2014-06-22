@@ -46,12 +46,12 @@ URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=87cc8
 type=video
 name=WorldCup Channel HD (9)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://cloudlive.worse-than.tv:1966/fwiptv_flive/worldcup_fw-iptv.smil/playlist.m3u8?REplSStOTTBJYThoM3FWeVQ2R3JrZll3K2hpa3lGalVONkxYVkFXS2dJa0k0WTcvT0duQUo5bDdGUTBSckhQeA==
+URL=http://cloudlive.worse-than.tv:1966/fwiptv_flive/worldcup_fw-iptv.smil/playlist.m3u8?NzQrWVR0c00wZXRaUG9UVlhxTno4VXVBdWpOUk1ZMVEwaFJZdkxWVHhBZ0RMOVh0S0ZMa1FvdGxYb0pDRzFmdw==
 #
 type=video
 name=WorldCup Channel HD (10)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?eUg2bWY2eW15dFVYTlNNQjhjMERLazQxTFpYcVdpSHZQaW5ONXRNazNveS92Nk1UVTg3Yk5qazdTN3hnVlB4Zw==
+URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?cTREcjFxaTJUUGRjUHcwYmJ3ekw4Wk5pUU9vaUd4YTdZYTllaE9hWGh1TXYvVU1DMk0zQTNXR3Y5VWVNMDJFaw==
 #
 type=video
 name=WorldCup Channel HD (11)
