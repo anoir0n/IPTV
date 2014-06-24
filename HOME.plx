@@ -7,7 +7,6 @@ name=IPTV
 thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/favorites.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/IPTV.plx
 #
-
 type=playlist
 name=Navi-Xtreme Portal
 thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/logo-xbmchub.png
