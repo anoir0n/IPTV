@@ -4,7 +4,7 @@ view=thumbnails
 #
 type=playlist
 name=IPTV
-thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/favorites.png
+thumb=https://copy.com/Na3LAZlrT3HP
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/IPTV.plx
 #
 type=playlist
