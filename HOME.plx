@@ -3,6 +3,12 @@ title=Navi-X Home
 view=thumbnails
 #
 type=playlist
+name=IPTV
+thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/favorites.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/IPTV.plx
+#
+
+type=playlist
 name=Navi-Xtreme Portal
 thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/logo-xbmchub.png
 view=thumbnails
@@ -27,9 +33,4 @@ type=playlist
 name=Updates (3.7.8)
 thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/navixlogo.png
 URL=http://navi-x.googlecode.com/svn/trunk/Playlists/scripts.plx
-#
-type=playlist
-name=IPTV
-thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/favorites.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/IPTV.plx
 #
