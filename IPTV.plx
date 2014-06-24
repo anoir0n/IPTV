@@ -11,12 +11,12 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/worldcup%202014.plx
 type=playlist
 name=TOTIPTV server 1
 thumb=http://www.totiptv.com/images/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV.plx
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv1.plx
 #
 type=playlist
 name=TOTIPTV server 2
 thumb=http://www.totiptv.com/images/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20(No%20Code%20).plx
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv2.plx
 #
 type=playlist
 name=Digital TV TOT
