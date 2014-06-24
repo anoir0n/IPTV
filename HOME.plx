@@ -4,7 +4,7 @@ view=thumbnails
 #
 type=playlist
 name=IPTV
-thumb=https://copy.com/Na3LAZlrT3HP
+thumb=http://iptvpi.url.ph/IPTV.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/IPTV.plx
 #
 type=playlist
