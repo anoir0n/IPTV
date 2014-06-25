@@ -9,6 +9,11 @@ thumb=http://insoccer.ca/wp-content/uploads/2013/12/World-Cup-2014-Brasil-logo-0
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/worldcup%202014.plx
 #
 type=playlist
+name=Khmer
+thumb=
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Khmer.plx
+#
+type=playlist
 name=TOTIPTV server 1
 thumb=http://www.totiptv.com/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv1.plx
