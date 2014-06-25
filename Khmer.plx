@@ -1,395 +1,359 @@
 type=video
-name=CH3
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ch3.stream
-
+name=Ch 3
+URL=rtmp://27.254.84.2:1935/live/ch3ton56.stream
+#
 type=video
-name=CH5
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ch5.stream
-
+name=Ch 5
+URL=rtmp://27.254.84.2:1935/live/ch5ton56.stream
+#
 type=video
-name=CH7
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ch7.stream
-
+name=Ch 7
+URL=rtmp://27.254.84.2:1935/live/ch7ton56.stream
+#
 type=video
-name=CH9
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ch9.stream
-
+name=Modern 9
+URL=rtmp://27.254.84.2:1935/live/ch9ton56.stream
+#
 type=video
 name=NBT
-thumb=
-URL=rtmp://103.7.56.16:1935/live/nbt.stream
-
+URL=rtmp://27.254.84.2:1935/live/nbtton56.stream
+#
 type=video
-name=TPBS
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tpbs.stream
-
+name=THAI PBS
+URL=rtmp://27.254.84.2:1935/live/tpbston56.stream
+#
 type=video
-name=TNNHD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tnnhd.stream
-
+name=RS FIFA WORLD CUP
+URL=rtmp://27.254.84.2:1935/live/vtv2.stream
+#
 type=video
-name=CNN
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cnn1.stream
-
+name=GMM FOOTBALL MAX
+URL=rtmp://27.254.84.2:1935/live/foot56.stream
+#
 type=video
-name=BBC
-thumb=
-URL=rtmp://103.7.56.16:1935/live/bbcnew.stream
-
+name=SUN CHANEL
+URL=rtmp://27.254.84.2:1935/live/sun56.stream
+#
 type=video
-name=MONEY
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ma.stream
-
+name=GMM SPORT EXTRA
+URL=rtmp://27.254.84.2:1935/live/foot56.stream
+#
 type=video
-name=ASIAUPDATE
-thumb=
-URL=rtmp://103.7.56.16:1935/live/asiaupdate.stream
-
+name=GMM ONE
+URL=rtmp://27.254.84.2:1935/live/espn56.stream
+#
 type=video
-name=4CHANNEL
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ch4.stream
-
+name=GMM CLUB
+URL=rtmp://27.254.84.2:1935/live/clubton56.stream
+#
 type=video
-name=BLUESKY
-thumb=
-URL=rtmp://103.7.56.16:1935/live/bluesky.stream
-
+name=GMM SPORT ONE
+URL=rtmp://27.254.84.2:1935/live/gmm_sport1.stream
+#
 type=video
-name=Nat GEO
-thumb=
-URL=rtmp://103.7.56.16:1935/live/nageo.stream
-
+name=CTH STADIUM 1
+URL=rtmp://27.254.84.2:1935/live/nba111156.stream
+#
 type=video
-name=NGO_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/hd_ngo.stream
-
+name=CTH STADIUM 1
+URL=rtmp://27.254.84.2:1935/live/cth111156.stream
+#
 type=video
-name=PSI
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cartoon3.stream
-
+name=CTH STADIUM 2
+URL=rtmp://27.254.84.2:1935/live/cth222256.stream
+#
 type=video
-name=History_2
-thumb=
-URL=rtmp://103.7.56.16:1935/live/vtv2.stream
-
+name=CTH STADIUM 3
+URL=rtmp://27.254.84.2:1935/live/cth333356.stream
+#
 type=video
-name=History_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/Hitstoryhd.stream
-
+name=CTH STADIUM 4
+URL=rtmp://27.254.84.2:1935/live/cth444456.stream
+#
 type=video
-name=Fox Action
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sun-hd.stream
-
+name=CTH STADIUM 5
+URL=rtmp://27.254.84.2:1935/live/cth555556.stream
+#
 type=video
-name=FOX_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/hd_foxpe.stream
-
+name=TRUESPORT HD 1
+URL=rtmp://27.254.84.2:1935/live/tsphd1ton56.stream
+#
 type=video
-name=HBO_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/hd_hbo.stream
-
+name=TRUESPORT HD 2
+URL=rtmp://27.254.84.2:1935/live/tsphd2ton56.stream
+#
 type=video
-name=HBOHIT
-thumb=
-URL=rtmp://103.7.56.16:1935/live/hbohit.stream
-
+name=TRUESPORT 1
+URL=rtmp://27.254.84.2:1935/live/tsp156.stream
+#
 type=video
-name=HBOS
-thumb=
-URL=rtmp://103.7.56.16:1935/live/hbos.stream
-
+name=TRUESPORT 2
+URL=rtmp://ballzeez2.pointto.us/live?8fa1ed649c329d1c9ded369f0ef4785f8991c4ef1858657a9e5a984b5b85d2eb/tsp2.stream
+#
 type=video
-name=AXN_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/hd_axn.stream
-
+name=TRUESPORT 2
+URL=rtmp://27.254.84.2:1935/live/tsp256.stream
+#
 type=video
-name=TVB
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tvb.stream
-
+name=TRUESPORT 3
+URL=rtmp://27.254.84.2:1935/live/tsp356.stream
+#
 type=video
-name=syfy
-thumb=
-URL=rtmp://103.7.56.16:1935/live/syfy.stream
-
+name=TRUESPORT 4
+URL=rtmp://27.254.84.2:1935/live/tsp456.stream
+#
 type=video
-name=AF_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/afhd.stream
-
+name=TRUESPORT 5
+URL=rtmp://27.254.84.2:1935/live/tsp556.stream
+#
 type=video
-name=ASN
-thumb=
-URL=rtmp://103.7.56.16:1935/live/asn.stream
-
+name=TRUESPORT 6
+URL=rtmp://27.254.84.2:1935/live/tsp656.stream
+#
 type=video
-name=Goft_HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/GCT.stream
-
+name=TRUESPORT 7
+URL=rtmp://27.254.84.2:1935/live/tsp756.stream
+#
+type=video
+name=TRUESPORT 10
+URL=rtmp://27.254.84.2:1935/live/mu56.stream
+#
+type=video
+name=TRUESPORT HD 1.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballthd1.stream
+#
+type=video
+name=TRUESPORT HD 2.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballthd2.stream
+#
+type=video
+name=TRUESPORT 1.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt1.stream
+#
+type=video
+name=TRUESPORT 2.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt2.stream
+#
+type=video
+name=TRUESPORT 3.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt3.stream
+#
+type=video
+name=TRUESPORT 4.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt4.stream
+#
+type=video
+name=TRUESPORT 5.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt5.stream
+#
+type=video
+name=TRUESPORT 6.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt6.stream
+#
+type=video
+name=TRUESPORT 7.2
+URL=rtmp://112.121.150.123:1935/retemna547ssaec2/_definst_/dooballt7.stream
+#
+type=video
+name=CH8
+URL=rtmp://27.254.84.2:1935/live/tvb56.stream
+#
+type=video
+name=ASTRO SPORT1
+URL=rtmp://27.254.84.2:1935/live/astro156.stream
+#
+type=video
+name=ASTRO SPORT2
+URL=rtmp://27.254.84.2:1935/live/astro256.stream
+#
+type=video
+name=ASTRO SPORT3
+URL=rtmp://27.254.84.2:1935/live/astro03.stream
+#
+type=video
+name=ASTRO SPORT3.1
+URL=rtmp://27.254.84.2:1935/live/sport4456.stream
+#
+type=video
+name=ASTRO SPORT3.2
+URL=rtmp://27.254.84.2:1935/live/sport5556.stream
+#
+type=video
+name=STAR SPORT
+URL=rtmp://27.254.84.2:1935/live/sport2256.stream
+#
+type=video
+name=FOX SPORT
+URL=rtmp://27.254.84.2:1935/live/sport1156.stream
+#
+type=video
+name=FOX SPORT HD
+URL=rtmp://27.254.84.2:1935/live/sport3356.stream
+#
+type=video
+name=EUROSPORT
+URL=rtmp://27.254.84.2:1935/live/sport4456.stream
+#
+type=video
+name=GOLF HD
+URL=rtmp://27.254.84.2:1935/live/gct56.stream
+#
 type=video
 name=BOXING
-thumb=
-URL=rtmp://103.7.56.16:1935/live/nba_hd.stream
-
+URL=rtmp://27.254.84.2:1935/live/nba111156.stream
+#
 type=video
-name=GMM Football Extra
-thumb=
-URL=rtmp://103.7.56.16:1935/live/gmm_footballextra.stream
-
+name=ASN
+URL=rtmp://27.254.84.2:1935/live/asn56.stream
+#
 type=video
-name=GMM One
-thumb=
-URL=rtmp://103.7.56.16:1935/live/gmm_one.stream
-
+name=TRUE Xzyte
+URL=rtmp://27.254.84.2:1935/live/xzy56.stream
+#
 type=video
-name=GMM ClubChanel
-thumb=
-URL=rtmp://103.7.56.16:1935/live/gmm_clubchanel.stream
-
+name=TRUE HISTROY
+URL=rtmp://27.254.84.2:1935/live/his56.stream
+#
 type=video
-name=GMM SportOne
-thumb=
-URL=rtmp://103.7.56.16:1935/live/gmm_sport1.stream
-
+name=WARNER TV
+URL=rtmp://27.254.84.2:1935/live/h256.stream
+#
 type=video
-name=GMM-Sport
-thumb=
-URL=rtmp://103.7.56.16:1935/live/turbo.stream
-
+name=TRUE HISTROY
+URL=rtmp://tvjaa.mine.nu:1935/tvjaa/history2.stream swfUrl=http://www.tvjaa.com/stream2/StrobeMediaPlayback.swf pageUrl=http://www.tvjaa.com/stream2/sarakadee2.php
+#
 type=video
-name=Laliga Sun
-thumb=
-URL=rtmp://103.7.56.16:1935/live/h2.stream
-
+name=PSI HD
+URL=rtmp://202.43.34.236/PSI/s1
+#
 type=video
-name=TSPHD1
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsphd1.stream
-
+name=DISCOVERY HD
+URL=rtmp://27.254.84.2:1935/live/disco56.stream
+#
 type=video
-name=TSPHD2
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsphd2.stream
-
+name=DISCOVERY WORLD HD
+URL=rtmp://ballzeez.pointto.us/live?32d7a9f2897116dba0d01ee5555aa037d571aa007279c5c972752e2b783018a6//discoveryhd2.stream
+#
 type=video
-name=TSP1
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp1.stream
-
+name=NET GEO WILD HD
+URL=rtmp://27.254.84.2:1935/live/pa7.stream
+#
 type=video
-name=TSP2
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp2.stream
-
+name=NATIONNAL GEOGRAPHIC HD
+URL=rtmp://27.254.84.2:1935/live/ngo56.stream
+#
 type=video
-name=TSP3
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp3.stream
-
+name=TRUE EXPLORE1
+URL=rtmp://27.254.84.2:1935/live/ex1.stream
+#
 type=video
-name=TENIS
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp4.stream
-
+name=TRUE EXPLORE 2
+URL=rtmp://27.254.84.2:1935/live/ex2.stream
+#
 type=video
-name=TSP5
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp5.stream
-
+name=TRUE4U
+URL=rtmp://edge6.psitv.tv/liveedge/308235425316_600
+#
 type=video
-name=TSP6
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp6.stream
-
+name=FOX CRIME
+URL=rtmp://27.254.84.2:1935/live/pa6.stream
+#
 type=video
-name=TSP7
-thumb=
-URL=rtmp://103.7.56.16:1935/live/tsp7.stream
-
+name=Fox Action
+URL=rtmp://27.254.84.2:1935/live/sun56.stream
+#
 type=video
-name=True10
-thumb=
-URL=rtmp://103.7.56.16:1935/live/manu.stream
-
+name=FOX HD
+URL=rtmp://27.254.84.2:1935/live/foxpe56.stream
+#
 type=video
-name=Astro 1
-thumb=
-URL=rtmp://103.7.56.16:1935/live/astro1.stream
-
+name=HBO HD
+URL=rtmp://27.254.84.2:1935/live/hbohd56.stream
+#
 type=video
-name=Astro 2
-thumb=
-URL=rtmp://103.7.56.16:1935/live/astro2.stream
-
+name=HBO HIT
+URL=rtmp://27.254.84.2:1935/live/hboh56.stream
+#
 type=video
-name=Astro 3
-thumb=
-URL=rtmp://103.7.56.16:1935/live/astro03.stream
-
+name=AXN HD
+URL=rtmp://27.254.84.2:1935/live/axn56.stream
+#
 type=video
-name=Premier 1
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sport1.stream
-
+name=FOX THAI
+URL=rtmp://27.254.84.2:1935/live/fox56.stream
+#
 type=video
-name=Premier 1B
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cth11.stream
-
+name=STAR MAX
+URL=rtmp://27.254.84.2:1935/live/tuton56.stream
+#
 type=video
-name=Premier 2
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sport2.stream
-
+name=THAI FILM
+URL=rtmp://27.254.84.2:1935/live/th56.stream
+#
 type=video
-name=Premier 2B
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cth12.stream
-
+name=ASIAN SIRIES
+URL=rtmp://27.254.84.2:1935/live/as56.stream
+#
 type=video
-name=Premier 3
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sport3.stream
-
+name=GMM OKE
+URL=rtmp://27.254.84.2:1935/live/mjung.stream
+#
 type=video
-name=Premier 3B
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cth13.stream
-
-type=video
-name=Premier 4
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sport4.stream
-
-type=video
-name=Premier 4B
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cth14.stream
-
-type=video
-name=Premier 5
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sport5.stream
-
-type=video
-name=Premier 5B
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cth15.stream
-
-type=video
-name=sport 6
-thumb=
-URL=rtmp://103.7.56.16:1935/live/sport6.stream
-
-type=video
-name=Xzyte
-thumb=
-URL=rtmp://103.7.56.16:1935/live/xzyte.stream
-
-type=video
-name=Fox
-thumb=
-URL=rtmp://103.7.56.16:1935/live/fox.stream
-
-type=video
-name=KBS HD
-thumb=
-URL=rtmp://103.7.56.16:1935/live/kbshd.stream
-
-type=video
-name=Movie Hit
-thumb=
-URL=rtmp://103.7.56.16:1935/live/moviehit.stream
-
-type=video
-name=True Series
-thumb=
-URL=rtmp://103.7.56.16:1935/live/trueseries.stream
-
-type=video
-name=Thai Flime
-thumb=
-URL=rtmp://103.7.56.16:1935/live/thaif.stream
-
-type=video
-name=Asia Series
-thumb=
-URL=rtmp://103.7.56.16:1935/live/asiaseries.stream
-
-type=video
-name=Gmm-oke
-thumb=
-URL=rtmp://103.7.56.16:1935/live/majung.stream
-
-type=video
-name=FLA
-thumb=
-URL=rtmp://103.7.56.16:1935/live/fla.stream
-
-type=video
-name=Discovery
-thumb=
-URL=rtmp://103.7.56.16:1935/live/discovery.stream
-
-type=video
-name=Cartoon_Network
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cartoon_network.stream
-
-type=video
-name=nick JR
-thumb=
-URL=rtmp://103.7.56.16:1935/live/disney_junior.stream
-
-type=video
-name=boomerang
-thumb=
-URL=rtmp://103.7.56.16:1935/live/boomerang.stream
-
-type=video
-name=Gang Cartoon
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cartoon1.stream
-
-type=video
-name=Kist Zone
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cartoon2.stream
-
+name=TRUE FILM ASIN
+URL=rtmp://27.254.84.2:1935/live/fla56.stream
+#
 type=video
 name=Cartoon Club
-thumb=
-URL=rtmp://103.7.56.16:1935/live/cartoon4.stream
-
+URL=rtmp://27.254.84.2:1935/live/pa4.stream
+#
 type=video
-name=VTV 1
-thumb=
-URL=rtmp://103.7.56.16:1935/live/vtv1.stream
-
+name=CARTOON NETWORK
+URL=rtmp://27.254.84.2:1935/live/car56.stream
+#
 type=video
-name=ex1
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ex1.stream
-
+name=NICK JR
+URL=rtmp://27.254.84.2:1935/live/jun56.stream
+#
 type=video
-name=ex2
-thumb=
-URL=rtmp://103.7.56.16:1935/live/ex2.stream
-
+name=BOOMERANG
+URL=rtmp://27.254.84.2:1935/live/boomerang.stream
+#
+type=video
+name=GANG CARTOON
+URL=rtmp://27.254.84.2:1935/live/pa3.stream
+#
+type=video
+name=THAI RUT TV
+URL=rtmp://27.254.84.2:1935/live/pa2.stream
+#
+type=video
+name=tnn
+URL=rtmp://27.254.84.2:1935/live/tnnton56.stream
+#
+type=video
+name=TV cnn
+URL=rtmp://27.254.84.2:1935/live/cnn1.stream
+#
+type=video
+name=bbc
+URL=rtmp://27.254.84.2:1935/live/bbcnew.stream
+#
+type=video
+name=NATION TV
+URL=rtmp://27.254.84.2:1935/live/pa1.stream
+#
+type=video
+name=asia update
+URL=rtmp://27.254.84.2:1935/live/asiaupdate.stream
+#
+type=video
+name=WORK POINT 1
+URL=rtmp://27.254.84.2:1935/live/ch4ton56.stream
+#
+type=video
+name=blue sky
+URL=rtmp://27.254.84.2:1935/live/bluesky.stream
+#
+type=video
+name=Af hd
+URL=rtmp://27.254.84.2:1935/live/jhytr.stream
