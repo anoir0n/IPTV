@@ -58,15 +58,15 @@ name=freeTV
 thumb=http://4.bp.blogspot.com/-nIOQ7X6N3IA/Uwbqth8M9SI/AAAAAAAABik/I0Vduoid6kg/s1600/Popular+TV+Logos+01+(6).png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/freeTV.plx
 #
-type=playlist
-name=CTH (1)
-thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH.plx
+#type=playlist
+#name=CTH (1)
+#thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH.plx
 #
-type=playlist
-name=CTH (2)
-thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH%20(2).plx
+#type=playlist
+#name=CTH (2)
+#thumb=http://men.mthai.com/uploads/manager/PNattanan/epl_logo_jpg.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH%20(2).plx
 #
 #type=playlist
 #name=true sport (link 1)
@@ -88,25 +88,30 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/CTH%20(2).plx
 #thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
 #URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(5).plx
 #
-type=playlist
-name=true sport server 1
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(3).plx
+#type=playlist
+#name=true sport server 1
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(3).plx
 #
-type=playlist
-name=true sport server 2
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(7).plx
+#type=playlist
+#name=true sport server 2
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(7).plx
 #
-type=playlist
-name=true sport server 3
-thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(6).plx
+#type=playlist
+#name=true sport server 3
+#thumb=http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/true%20sport%20(6).plx
 #
 type=playlist
 name=ONE2HD
 thumb=http://www.one2hd.com/apple-touch-icon.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/ONEHD.plx
+#
+type=playlist
+name=ONE2HD
+thumb=http://www.one2hd.com/apple-touch-icon.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/ONEHD%20v2.plx
 #
 type=playlist
 name=MOVIE
