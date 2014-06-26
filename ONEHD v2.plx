@@ -8,14 +8,14 @@ name=Noname 2
 thumb=
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-hd02/playlist.m3u8
 
-type=video
-name=Noname 3
-thumb=
-URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-hd03/playlist.m3u8
+#type=video
+#name=Noname 3
+#thumb=
+#URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-hd03/playlist.m3u8
 
 type=video
-name=Noname 4
-thumb=
+name=HDTV 2 MOVIE
+thumb=http://iptvpi.url.ph/O2/Logo/HDTV2.png
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-hd04/playlist.m3u8
 
 type=video
@@ -48,15 +48,15 @@ name=Noname 10
 thumb=
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch04/playlist.m3u8
 
-type=video
-name=Noname 11
-thumb=
-URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch05/playlist.m3u8
+#type=video
+#name=Noname 11
+#thumb=
+#URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch05/playlist.m3u8
 
-type=video
-name=Noname 12
-thumb=
-URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch06/playlist.m3u8
+#type=video
+#name=Noname 12
+#thumb=
+#URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch06/playlist.m3u8
 
 type=video
 name=Noname 13
