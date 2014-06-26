@@ -41,12 +41,12 @@ URL=rtsp://58.97.57.152:1935/live/hd05.stream
 type=video
 name=WorldCup Channel HD (8/1) (*on user/pass*)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=e0027684afff21c5501752ecdcb7a60c&password=0858070287
+URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=af93225542d45e4c07aa99321ea8de74&password=0858070287
 #
 type=video
 name=WorldCup Channel SD (8/2) (*on user/pass*)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://totspl.webhop.net:26835/splrt/h5.stream/playlist.m3u8?username=e0027684afff21c5501752ecdcb7a60c&password=0858070287
+URL=http://totspl.webhop.net:26835/splrt/h5.stream/playlist.m3u8?username=af93225542d45e4c07aa99321ea8de74&password=0858070287
 #
 type=video
 name=WorldCup Channel HD (8/3)
@@ -63,10 +63,10 @@ URL=http://thaiiptv.dyndns.tv:1936/live_sv1/Worldcup3.stream/playlist.m3u8
 #thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 #URL=http://cloudlive.worse-than.tv:1966/fwiptv_dlive/worldcup_fwtvdigital.smil/playlist.m3u8?cTREcjFxaTJUUGRjUHcwYmJ3ekw4Wk5pUU9vaUd4YTdZYTllaE9hWGh1TXYvVU1DMk0zQTNXR3Y5VWVNMDJFaw==
 #
-type=video
-name=WorldCup Channel SD (11) (True)
-thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://27.254.81.119:1935/live/thd1.stream/playlist.m3u8?wowzasessionid=1314890268
+#type=video
+#name=WorldCup Channel SD (11) (True)
+#thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+#URL=http://27.254.81.119:1935/live/thd1.stream/playlist.m3u8?wowzasessionid=1314890268
 #
 type=video
 name=CH 8
