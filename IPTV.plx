@@ -14,6 +14,11 @@ thumb=
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Khmer.plx
 #
 type=playlist
+name=IPTVD
+thumb=http://iptvd.mine.nu/images/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/iptvd.plx
+#
+type=playlist
 name=TOTIPTV server 1
 thumb=http://www.totiptv.com/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv1.plx
