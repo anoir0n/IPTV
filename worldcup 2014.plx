@@ -38,20 +38,30 @@ URL=rtsp://58.97.57.152:1935/live/hd05.stream
 #thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 #URL=http://toniptv.no-ip.biz:1935/live/tsphd1.stream/playlist.m3u8
 #
-type=video
-name=WorldCup Channel HD (8/1) (*on user/pass*)
-thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=facd8fda89544b9d599caa40b1bbbc1c&password=0858070287
+#type=video
+#name=WorldCup Channel HD (8/1) (*on user/pass*)
+#thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+#URL=http://iptvtot.dyndns.tv:27818/seed/nt26.stream/playlist.m3u8?username=facd8fda89544b9d599caa40b1bbbc1c&password=0858070287
 #
-type=video
-name=WorldCup Channel SD (8/2) (*on user/pass*)
-thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
-URL=http://totspl.webhop.net:26835/splrt/h5.stream/playlist.m3u8?username=facd8fda89544b9d599caa40b1bbbc1c&password=0858070287
+#type=video
+#name=WorldCup Channel SD (8/2) (*on user/pass*)
+#thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+#URL=http://totspl.webhop.net:26835/splrt/h5.stream/playlist.m3u8?username=facd8fda89544b9d599caa40b1bbbc1c&password=0858070287
 #
 type=video
 name=WorldCup Channel HD (8/3)
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://thaiiptv.dyndns.tv:1936/live_sv1/Worldcup3.stream/playlist.m3u8
+#
+type=video
+name=WorldCup Channel HD 
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=rtmp://onweb.from-dc.com/vitweb/?username=anoiron&password=password/vit_sport4.stream
+#
+type=video
+name=WorldCup Channel SD
+thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
+URL=rtmp://onweb.from-dc.com/vitweb/?username=anoiron&password=password/vit_sport3.stream
 #
 #type=video
 #name=WorldCup Channel HD (9)
