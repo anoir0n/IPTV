@@ -4,7 +4,7 @@ version=1
 background=http://geniusquotes.net/wp-content/uploads/2014/06/Fifa-World-Cup-Brazuca-Ball-and-Trophy-2014-HD-Wallpaper.jpg
 #
 type=video
-name=WorldCup Channel HD HD (1) 
+name=WorldCup Channel HD (1) 
 thumb=https://pbs.twimg.com/profile_images/468183872169979904/YmMtL5KB.jpeg
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-hd05/playlist.m3u8
 #
