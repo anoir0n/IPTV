@@ -71,7 +71,7 @@ URL=http://thaiiptv.dyndns.tv:1936/live_sv1/Worldcup3.stream/playlist.m3u8
 type=video
 name=CH 8
 thumb=http://www.totiptv.com/Product/Channel/images/thaich8.png
-URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=a6eea739c2d91d9fc31e50b1e1373d63
+URL=http://nix02.livem3u8.me.totiptv.com/live/15c52eeb21b748319771eb794a6cf242.m3u8?pt=1&code=c38247412ef6961b4910c7fb5a47dd3b
 #
 type=video
 name=CH 7 HD (ONE2HD)
@@ -81,10 +81,10 @@ URL=rtmp://edge6.bugaboo.tv/liveedgech7/livech71
 type=video
 name=BBTV CH 7 (TOT)
 thumb=http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png
-URL=http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=a6eea739c2d91d9fc31e50b1e1373d63
+URL=http://nix02.livem3u8.me.totiptv.com/live/ddfa47e726444446864b14e0e819fdde.m3u8?pt=1&code=c38247412ef6961b4910c7fb5a47dd3b
 #
 type=video
 name=TV5 HD1
 thumb=http://www.totiptv.com/Product/Channel/images/ch5.png
-URL=http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=a6eea739c2d91d9fc31e50b1e1373d63
+URL=http://nix02.livem3u8.me.totiptv.com/live/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?pt=1&code=c38247412ef6961b4910c7fb5a47dd3b
 #
