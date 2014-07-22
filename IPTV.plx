@@ -13,10 +13,10 @@ name=Khmer
 thumb=
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Khmer.plx
 #
-#type=playlist
-#name=IPTVD
-#thumb=http://iptvd.mine.nu/images/logo.png
-#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/iptvd.plx
+type=playlist
+name=TrueVisions Anywhere TH
+thumb=https://lh3.ggpht.com/Jg04vKE-51_E7ji5b40WEvocS2dl7wSwxYXmDWHu1bbc3mDejYvsiVGtGJms2neYCH8=w300
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TrueVisions%20Anywhere%20TH.plx
 
 type=playlist
 name=IPTVD
