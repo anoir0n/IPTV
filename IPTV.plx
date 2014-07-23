@@ -51,7 +51,7 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TVTH.plx
 type=playlist
 name=HD2live
 thumb=http://hd2live.kicks-ass.net/img/themes/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%20(%E0%B8%A3%E0%B8%A7%E0%B8%A1).plx
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%7B%7BIPTV%7D%7D.plx
 #
 #type=playlist
 #name=True Visions
