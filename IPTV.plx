@@ -24,6 +24,11 @@ thumb=http://iptvd.mine.nu/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/atombox.plx
 #
 type=playlist
+name=TOTIPTV bitrate 800
+thumb=http://www.totiptv.com/images/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20bitrate=800.plx
+#
+type=playlist
 name=TOTIPTV server 1
 thumb=http://www.totiptv.com/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv1.plx
