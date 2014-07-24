@@ -42,32 +42,32 @@ URL=rtmp://202.129.206.80:2000/HD2live-S3/tennishd.stream
 type=video
 name=TRUE SPORT 1
 thumb=http://hd2live.kicks-ass.net/img/channels/6894.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S3/sport1.stream
+URL=rtmp://202.129.206.80:2000/HD2live-S3/true1.stream
 #
 type=video
 name=TRUE SPORT 2
 thumb=http://hd2live.kicks-ass.net/img/channels/6893.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S3/sport2.stream
+URL=rtmp://202.129.206.80:2000/HD2live-S3/true2.stream
 #
 type=video
 name=TRUE SPORT 3
 thumb=http://hd2live.kicks-ass.net/img/channels/6895.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S3/sport3.stream
+URL=rtmp://202.129.206.80:2000/HD2live-S3/true3.stream
 #
 type=video
 name=TRUE SPORT 5
 thumb=http://hd2live.kicks-ass.net/img/channels/6896.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S3/sport5.stream
+URL=rtmp://202.129.206.80:2000/HD2live-S3/true5.stream
 #
 type=video
 name=TRUE SPORT 6
 thumb=http://hd2live.kicks-ass.net/img/channels/7182.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:true6.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/true6.stream
 #
 type=video
 name=TRUE SPORT 7
 thumb=http://hd2live.kicks-ass.net/img/channels/7185.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:true7.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/true7.stream
 #
 type=video
 name=True Sport HD 1
@@ -250,6 +250,16 @@ thumb=http://hd2live.kicks-ass.net/img/channels/6931.jpg
 URL=rtmp://202.129.206.80:2000/HD2live-S4/foxcrime.stream
 #
 type=video
+name=KBS World HD
+thumb=http://hd2live.kicks-ass.net/img/channels/6927.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/kbsworld.stream
+#
+type=video
+name=GTH On Air
+thumb=http://hd2live.kicks-ass.net/img/channels/7254.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/gthonair.stream
+#
+type=video
 name=Fox Thai*
 thumb=http://hd2live.kicks-ass.net/channels/view/6932
 URL=rtmp://202.129.206.80:2000/HD2live-S4/foxthai.stream
@@ -282,7 +292,7 @@ URL=rtmp://202.129.206.80:2000/HD2live-S3/natgeowild.stream
 type=video
 name=4050 Channel*
 thumb=http://hd2live.kicks-ass.net/img/channels/7231.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:4050.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/4050.stream
 #
 type=video
 name=ACT Channel*
@@ -292,52 +302,77 @@ URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch11/playli
 type=video
 name=Amarin TV HD*
 thumb=http://hd2live.kicks-ass.net/img/channels/7237.jpg
-URL=http://s2.live14.com/stream/5195e80fe1ed0
+URL=http://s2.live14.com/stream/5195e80fe1ed0/chunklist.m3u8
 #
 type=video
 name=Boomerang Channel*
 thumb=http://hd2live.kicks-ass.net/img/channels/6936.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:boomerang.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/boomerang.stream
 #
 type=video
-name=Cartoon Club*
+name=Cartoon Club
 thumb=http://hd2live.kicks-ass.net/img/channels/7240.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:cartoonclub.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/cartoonclub.stream
 #
 type=video
-name=Fan TV*
+name=Cartoon Network
+thumb=http://hd2live.kicks-ass.net/img/channels/7838.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/cartoonnetwork.stream
+#
+type=video
+name=CH 6
+thumb=http://hd2live.kicks-ass.net/img/channels/6942.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S4/_definst_/ch6.stream
+#
+type=video
+name=Disney Junior
+thumb=http://hd2live.kicks-ass.net/img/channels/6926.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/disney.stream
+#
+type=video
+name=Disney XD
+thumb=http://hd2live.kicks-ass.net/img/channels/7936.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/disneyxd.stream
+#
+type=video
+name=PSI Saradee HD
+thumb=http://hd2live.kicks-ass.net/img/channels/6943.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/psihd.stream
+#
+type=video
+name=Fan TV
 thumb=http://hd2live.kicks-ass.net/img/channels/7241.jpg
 URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch38/playlist.m3u8
 #
 type=video
-name=Gang Cartoon*
+name=Gang Cartoon
 thumb=http://hd2live.kicks-ass.net/img/channels/6935.jpg
 URL=rtmp://202.129.206.80:2000/HD2live-S4/gangcartoon.stream
 #
 type=video
 name=JKN*
 thumb=http://hd2live.kicks-ass.net/img/channels/7255.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:jkn.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/jkn.stream
 #
 type=video
-name=Next Step*
+name=Next Step
 thumb=http://hd2live.kicks-ass.net/img/channels/7260.jpg
-URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch29
+URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch29/playlist.m3u8
 #
 type=video
 name=Nick JR*
 thumb=http://hd2live.kicks-ass.net/img/channels/6941.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:nichjr.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/nichjr.stream
 #
 type=video
 name=SyFy*
 thumb=http://hd2live.kicks-ass.net/img/channels/6939.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:hbosig.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/hbosig.stream
 #
 type=video
 name=TVB*
 thumb=http://hd2live.kicks-ass.net/img/channels/6937.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:tvb.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/tvb.stream
 #
 type=video
 name=V Like*
@@ -352,22 +387,22 @@ URL=http://110.164.95.230:1935/LiveStream/workpoint_3fdmfkdsjofhosdfjsdbfuygsdof
 type=video
 name=You Channel*
 thumb=http://hd2live.kicks-ass.net/img/channels/6934.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:youchannel.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/youchannel.stream
 #
 type=video
 name=Z Oke*
 thumb=http://hd2live.kicks-ass.net/img/channels/6938.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:zoke.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/zoke.stream
 #
 type=video
 name=CH 6*
 thumb=http://hd2live.kicks-ass.net/img/channels/6942.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:ch6.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/ch6.stream
 #
 type=video
 name=PSI Saradee*
 thumb=http://hd2live.kicks-ass.net/img/channels/6943.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:psisaradee.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/psisaradee.stream
 #
 type=video
 name=PPTV HD*
@@ -397,7 +432,7 @@ URL=http://live.thairath.co.th/trtv?d086cf073425e35b84976a27d3b46770/playlist.m3
 type=video
 name=TNN*
 thumb=http://hd2live.kicks-ass.net/img/channels/6948.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:tnn.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/tnn.stream
 #
 type=video
 name=CH 3 Family*
@@ -407,12 +442,12 @@ URL=http://111.223.37.199/live/thaitv3_13?d086cf073425e35b84976a27d3b46770/playl
 type=video
 name=CH 3 HD*
 thumb=http://hd2live.kicks-ass.net/img/channels/6955.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:ch3hd.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/ch3hd.stream
 #
 type=video
 name=CH 3 SD*
 thumb=http://hd2live.kicks-ass.net/img/channels/7227.jpg
-URL=http://111.223.37.199/live/thaitv3_28
+URL=http://111.223.37.199/live/thaitv3_28/playlist.m3u8
 #
 type=video
 name=CH 3*
@@ -432,12 +467,12 @@ URL=rtmp://202.129.206.80:2000/HD2live-S3/ch7hd.stream
 type=video
 name=CH 9*
 thumb=http://hd2live.kicks-ass.net/img/channels/6952.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:ch9.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/ch9.stream
 #
 type=video
 name=NBT*
 thumb=http://hd2live.kicks-ass.net/img/channels/6953.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:nbt.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/nbt.stream
 #
 type=video
 name=THAI PBS HD*
