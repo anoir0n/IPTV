@@ -1,10 +1,5 @@
 #
 type=video
-name=World Cup
-thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S3/worldcup.stream
-#
-type=video
 name=CH8 Channel
 thumb=http://hd2live.kicks-ass.net/img/channels/6886.jpg
 URL=rtmp://202.129.206.80:2000/HD2live-S3/ch8.stream
@@ -18,6 +13,11 @@ type=video
 name=CTH Stadium 2
 thumb=http://hd2live.kicks-ass.net/img/channels/6888.jpg
 URL=rtmp://202.129.206.80:2000/HD2live-S3/stadium2.stream
+#
+type=video
+name=CTH Stadium 3
+thumb=http://hd2live.kicks-ass.net/img/channels/9662.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/stadium3.stream
 #
 type=video
 name=ASN
@@ -78,6 +78,11 @@ type=video
 name=True Sport HD 2
 thumb=http://hd2live.kicks-ass.net/img/channels/6890.jpg
 URL=rtmp://202.129.206.80:2000/HD2live-S3/sporthd2.stream
+#
+type=video
+name=True Sport HD 3
+thumb=http://hd2live.kicks-ass.net/img/channels/6885.jpg
+URL=rtmp://202.129.206.80:2000/HD2live-S3/worldcupsss.stream
 #
 type=video
 name=Sun Channel La Liga
@@ -227,7 +232,7 @@ URL=rtmp://202.129.206.80:2000/HD2live-S3/explore2.stream
 type=video
 name=True Select*
 thumb=http://hd2live.kicks-ass.net/img/channels/6921.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:trueselect.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/trueselect.stream
 #
 type=video
 name=True X Zyte
@@ -235,19 +240,19 @@ thumb=http://hd2live.kicks-ass.net/img/channels/6922.jpg
 URL=rtmp://202.129.206.80:2000/HD2live-S3/xzyte.stream
 #
 type=video
-name=Fox Action Movie HD*
+name=Fox Action Movie HD
 thumb=http://hd2live.kicks-ass.net/img/channels/6928.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:foxaction.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/foxaction.stream
 #
 type=video
 name=Fox Crime*
 thumb=http://hd2live.kicks-ass.net/img/channels/6931.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:foxcrime.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/foxcrime.stream
 #
 type=video
 name=Fox Thai*
 thumb=http://hd2live.kicks-ass.net/channels/view/6932
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:foxthai.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/foxthai.stream
 #
 type=video
 name=GMM Music*
@@ -257,7 +262,7 @@ URL=http://edge.newone2up.swiftserve.com/live/live-one2hd/one2hd-mtg-ch65/playli
 type=video
 name=Gmm ONE*
 thumb=http://hd2live.kicks-ass.net/img/channels/6933.jpg
-URL=rtmp://202.129.206.80:2000/HD2live-S4/smil:gmmone.smil
+URL=rtmp://202.129.206.80:2000/HD2live-S4/gmmone.stream
 #
 type=video
 name=Green Channel*
