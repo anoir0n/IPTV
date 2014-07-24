@@ -3,10 +3,25 @@ version=8
 background=http://4.bp.blogspot.com/_enVLP57PrXw/TB8gwrJYZ5I/AAAAAAAAB-A/G9vNy2FUOCs/s1600/free-wallpaper-20.jpg
 view=thumbnails
 #
+#type=playlist
+#name=World Cup 2014
+#thumb=http://insoccer.ca/wp-content/uploads/2013/12/World-Cup-2014-Brasil-logo-03.jpg
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/worldcup%202014.plx
+#
 type=playlist
-name=World Cup 2014
-thumb=http://insoccer.ca/wp-content/uploads/2013/12/World-Cup-2014-Brasil-logo-03.jpg
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/worldcup%202014.plx
+name=TOTIPTV bitrate 800
+thumb=http://www.totiptv.com/images/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20bitrate=800.plx
+#
+type=playlist
+name=TOTIPTV server 1
+thumb=http://www.totiptv.com/images/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv1.plx
+#
+type=playlist
+name=Digital TV TOT
+thumb=http://images.droidsans.com/sites/default/files/doodee-sticker.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Digital%20TV%7B%7BTOT%7D%7D.plx
 #
 type=playlist
 name=Khmer
@@ -24,24 +39,14 @@ thumb=http://iptvd.mine.nu/images/logo.png
 URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/atombox.plx
 #
 type=playlist
-name=TOTIPTV bitrate 800
-thumb=http://www.totiptv.com/images/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20bitrate=800.plx
+name=HD2live
+thumb=http://hd2live.kicks-ass.net/img/themes/logo.png
+URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%7B%7BIPTV%7D%7D.plx
 #
-type=playlist
-name=TOTIPTV server 1
-thumb=http://www.totiptv.com/images/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv1.plx
-#
-type=playlist
-name=TOTIPTV server 2
-thumb=http://www.totiptv.com/images/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv2.plx
-#
-type=playlist
-name=Digital TV TOT
-thumb=http://images.droidsans.com/sites/default/files/doodee-sticker.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/Digital%20TV%7B%7BTOT%7D%7D.plx
+#type=playlist
+#name=TOTIPTV server 2
+#thumb=http://www.totiptv.com/images/logo.png
+#URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TOTIPTV%20sv2.plx
 #
 type=playlist
 name=TVYH
@@ -52,11 +57,6 @@ URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/TVTH.plx
 #name=My Playlists 
 #thumb=http://www.o2kiptv.com/otv/Contents/iptv.jpg
 #URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/My%20Playlists.plx
-#
-type=playlist
-name=HD2live
-thumb=http://hd2live.kicks-ass.net/img/themes/logo.png
-URL=https://raw.githubusercontent.com/anoir0n/IPTV/master/HD2live%7B%7BIPTV%7D%7D.plx
 #
 #type=playlist
 #name=True Visions
