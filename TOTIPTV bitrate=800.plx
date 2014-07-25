@@ -134,6 +134,11 @@ thumb=http://www.totiptv.com/Product/Channel/images/TRUE-4-U.png
 URL=http://nix02.livem3u8.me.totiptv.com/live/9ece9059930d4331a3d445f96fb30dff.m3u8?bitrate=800&code=e069088df095cd9347c74380f987a786
 #
 type=video
+name=GMM CHANNEL
+thumb=http://www.totiptv.com/Product/Channel/images/GMMChannel.png
+URL=http://nix02.livem3u8.me.totiptv.com/live/ab0b43ef8363438098a94101e93ca138.m3u8?pt=1&code=e069088df095cd9347c74380f987a786
+#
+type=video
 name=BIG
 thumb=http://www.totiptv.com/Product/Channel/images/BiG.png
 URL=http://nix02.livem3u8.me.totiptv.com/live/ab0b43ef8363438098a94101e93ca138.m3u8?bitrate=800&code=e069088df095cd9347c74380f987a786
